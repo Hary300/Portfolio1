@@ -60,7 +60,7 @@ const Faq = () => {
         </div>
       </div>
       <Image
-        src='/images/vector10.svg' //white
+        src='/images/Vector10.svg' //white
         alt='vector10'
         width={1440}
         height={622}
